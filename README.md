@@ -3,6 +3,6 @@
 
 A simple project for playing sounds using a Rfid RC522 and raspberry pi with es6.
 
-Based on Node.js I2C module: [adxl345-sensor](https://github.com/skylarstein/adxl345-sensor/).
+Based on Node.js I2C module: [rc522](https://github.com/ocsacesar/rc522).
 
 Play with omxplayer.
